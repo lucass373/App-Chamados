@@ -12,7 +12,7 @@ Aplicativo em desenvolvimento, utilizando o framework React-Native, com o intuí
 - Tela de Gastos mensais.  	:x:
 
 # Tela de Lista de Alimentos
-![alt text]([https://drive.google.com/file/d/1VLCzb3_FkzzZBa3pPqs-AE1deIjSdhFy](https://drive.google.com/file/d/1VLCzb3_FkzzZBa3pPqs-AE1deIjSdhFy/view?usp=sharing))
+![alt text](https://lh3.googleusercontent.com/pw/1VLCzb3_FkzzZBa3pPqs-AE1deIjSdhFy-WqW9xvjmvKOtoDKqBAfC756zkeRbApjUbKUBzDATvIo3w_O7jNuX31rv8QdL-YMMNMAWdR-42fX1V_97qlr34DmoLvFLR20_rHcyHY63GFfD6Arx39J1W8u7jwJfxltVZ2ml=w454-h955-no?authuser=0)
 
 # Tela de Lista de Limpeza
 
